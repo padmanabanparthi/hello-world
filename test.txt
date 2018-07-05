@@ -4,3 +4,5 @@ css
 php
 mysql
 javascript
+jquery
+bootstrap
