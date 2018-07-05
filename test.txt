@@ -5,3 +5,6 @@ php
 mysql
 javascript
 codeigniter
+jquery
+bootstrap
+
